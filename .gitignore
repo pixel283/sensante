@@ -1,0 +1,17 @@
+# Environnement Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Modèles ML
+models/*.pkl
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
